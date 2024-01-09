@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\simplilearn\StudentTeacherclass\StudentTeacherclass\bin\Debug\StudentTeacherclass.exe.config
+C:\Users\USER\Desktop\simplilearn\StudentTeacherclass\StudentTeacherclass\bin\Debug\StudentTeacherclass.exe
+C:\Users\USER\Desktop\simplilearn\StudentTeacherclass\StudentTeacherclass\bin\Debug\StudentTeacherclass.pdb
+C:\Users\USER\Desktop\simplilearn\StudentTeacherclass\StudentTeacherclass\obj\Debug\StudentTeacherclass.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\simplilearn\StudentTeacherclass\StudentTeacherclass\obj\Debug\StudentTeacherclass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\simplilearn\StudentTeacherclass\StudentTeacherclass\obj\Debug\StudentTeacherclass.exe
+C:\Users\USER\Desktop\simplilearn\StudentTeacherclass\StudentTeacherclass\obj\Debug\StudentTeacherclass.pdb
